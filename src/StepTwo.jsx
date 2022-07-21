@@ -114,11 +114,11 @@ const StepTwo = ({ nextStep, handleFormData, prevStep, values }) => {
             </Form.Group>
             <div style={{ display: "flex", justifyContent: "space-around", marginTop:30 }}>
               <Button className="btn btn-dark" onClick={prevStep}>
-                Previous
+                Prochain
               </Button>
               <p className="pageindicator">1  <span className="preserv">2</span></p>
               <Button className="btn btn-dark"type="submit">
-                Submit
+                Soumettre
               </Button>
             </div>
           </Form>
