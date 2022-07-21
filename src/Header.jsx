@@ -26,7 +26,6 @@ const Header = () => {
             <Link to='/Activities'className="headerlink" >{t('link_activity')}</Link>
             <Link to='/Reservation'className="headerlink" >{t('link_Reservation')}</Link>
             <Link to='/Commentaire'className="headerlink" >{t('link_Comments')}</Link>
-            <a href="/Reservation">adfg</a>
             <button className='btn btn-dark' 
             style={{
        
