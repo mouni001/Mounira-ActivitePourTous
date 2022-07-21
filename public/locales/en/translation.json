@@ -1,0 +1,62 @@
+{
+    "top_bar_title": "Recents comments",
+    "commentaire_recent": "Recent Participant Comments",
+    "date1":"April 14, 2019",
+    "pending1":"Waiting for approval",
+    "comment1":"I loved the pottery activity! I learned a lot of technique. Thanks a lot!",
+    "date2":"March 13, 2020",
+    "pending2":"Approved",
+    "comment2":"Contrary to beliefs, the free activities of this community-based business provide quality activities. I signed up for the bike group and I don't regret",
+    "date3":"January 20, 2022",
+    "pending3":"Approved",
+    "comment3":"I registered my two children aged 8 and 10 for the climbing activity. How happy I am. They had a memorable time and spent all their energy. It's fantastic! I recommend for energetic children",
+    "date4":" March 8, 2022",
+    "pending4":"Waiting for approval",
+    "comment4":"I wasn't sure his free stuff was for me. After reading the comments, I took the plunge and signed up for the community garden with my family. We had a fabulous afternoon. The children were tired and me and my wife happy. ",
+    "card-title":"Leave us your comments too",
+    "card-smalltittle":"Activity to be evaluated",
+    "desabled1":"Women",
+    "desabled2":"Seniors ",
+    "desabled3":"Family",
+    "desabled4":"Men",
+    "desabled5":"Teenager",
+    "desabled6":"Children",
+    "option1":"Pottery workshop",
+    "option2":"Painting workshop",
+    "option3":"Community Gardens",
+    "option4":"Aquaform",
+    "option5":"Outdoor yoga",
+    "option6":"Art workshop",
+    "option7":"Bike group",
+    "option8":"Climbing",
+    "option9":"Cooking workshop",
+    "name":"Name",
+    "starating":"Choose the rating between 1 to 5:",
+    "textarea":"Write us a comment!",
+    "bouton":"Submit",
+    "message_title": "Thanks a lot",
+    "message":"Thank you for your comment. Before displaying it, our team will analyze your comment in order to improve our services.",
+    "other_comment":" Write another comment",
+    "bouton_accueil":"Back to home page",
+
+
+
+    "title":"Activity for all!",
+    "link_Home":"Home",
+    "link_activity":"Activity",
+    "link_Reservation":"Reservation",
+    "link_Comments":"Comments",
+
+
+
+    "error_name1":"cannot be blank!",
+    "error_name2":"name is too long!",
+    "error_activity":"select an activity!",
+    "error_rating":"must assign a rating!"
+  
+
+
+
+
+
+}
